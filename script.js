@@ -1,1 +1,1 @@
-console.log("Witaj!")
+console.log("Witaj! Aktualizacja skryptu")
